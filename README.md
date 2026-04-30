@@ -11,3 +11,4 @@ Bu proje, Arch of Sigma Bilgi Teknolojileri staj programı kapsamında geliştir
 ### Kullanılan Teknolojiler:
 *   Python 3.x
 *   Google Colab (Geliştirme Ortamı)
+  
